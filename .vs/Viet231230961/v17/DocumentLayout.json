@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Web1\\Viet231230961\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\thv_home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\thv_home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\shared\\thv_leftsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\shared\\thv_leftsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\shared\\thv_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\shared\\thv_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\shared\\thv_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\shared\\thv_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\chuyens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\chuyens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\controllers\\chuyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\controllers\\chuyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\controllers\\thv_homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\controllers\\thv_homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\chuyens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\chuyens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\shared\\thv_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\shared\\thv_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\thv_home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\thv_home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\models\\chuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\models\\chuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\models\\tuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\models\\tuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\models\\hanhkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\models\\hanhkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\models\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\models\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\models\\navitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\models\\navitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\models\\loaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\models\\loaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|e:\\code\\web1\\viet231230961\\viet231230961\\models\\vantai2512v1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121F8788-28EC-4F93-8567-E5587187DD4E}|Viet231230961\\Viet231230961.csproj|solutionrelative:viet231230961\\models\\vantai2512v1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Viet231230961\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T10:03:06.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChuyensController.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Controllers\\ChuyensController.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Controllers\\ChuyensController.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Controllers\\ChuyensController.cs",
+              "RelativeToolTip": "Viet231230961\\Controllers\\ChuyensController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:52:58.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Chuyens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\Chuyens\\Edit.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Chuyens\\Edit.cshtml*",
+              "RelativeToolTip": "Viet231230961\\Views\\Chuyens\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T01:33:05.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "THV_Layout.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Shared\\THV_Layout.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\Shared\\THV_Layout.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Shared\\THV_Layout.cshtml",
+              "RelativeToolTip": "Viet231230961\\Views\\Shared\\THV_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T17:11:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "THV_LeftSideBar.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Shared\\THV_LeftSideBar.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\Shared\\THV_LeftSideBar.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Shared\\THV_LeftSideBar.cshtml",
+              "RelativeToolTip": "Viet231230961\\Views\\Shared\\THV_LeftSideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T00:41:50.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\THV_Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\THV_Home\\Index.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\THV_Home\\Index.cshtml",
+              "RelativeToolTip": "Viet231230961\\Views\\THV_Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T17:13:36.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "THV_HomeController.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Controllers\\THV_HomeController.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Controllers\\THV_HomeController.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Controllers\\THV_HomeController.cs",
+              "RelativeToolTip": "Viet231230961\\Controllers\\THV_HomeController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:14:18.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Viet231230961\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T17:11:03.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "THV_Footer.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Shared\\THV_Footer.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\Shared\\THV_Footer.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Shared\\THV_Footer.cshtml",
+              "RelativeToolTip": "Viet231230961\\Views\\Shared\\THV_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T17:15:25.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Chuyens\\Index.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\Chuyens\\Index.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Chuyens\\Index.cshtml",
+              "RelativeToolTip": "Viet231230961\\Views\\Chuyens\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T01:32:48.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Viet231230961\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T17:12:21.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\THV_Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\THV_Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\THV_Home\\Privacy.cshtml",
+              "RelativeToolTip": "Viet231230961\\Views\\THV_Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T17:13:32.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "THV_Header.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Shared\\THV_Header.cshtml",
+              "RelativeDocumentMoniker": "Viet231230961\\Views\\Shared\\THV_Header.cshtml",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Views\\Shared\\THV_Header.cshtml",
+              "RelativeToolTip": "Viet231230961\\Views\\Shared\\THV_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T17:15:08.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Chuyen.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\Chuyen.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Models\\Chuyen.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\Chuyen.cs",
+              "RelativeToolTip": "Viet231230961\\Models\\Chuyen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:54:33.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Viet231230961\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:06:46.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Program.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Program.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Program.cs",
+              "RelativeToolTip": "Viet231230961\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:12:24.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\appsettings.json",
+              "RelativeDocumentMoniker": "Viet231230961\\appsettings.json",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\appsettings.json",
+              "RelativeToolTip": "Viet231230961\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T17:12:24.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tuyen.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\Tuyen.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Models\\Tuyen.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\Tuyen.cs",
+              "RelativeToolTip": "Viet231230961\\Models\\Tuyen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:14:30.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HanhKhach.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\HanhKhach.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Models\\HanhKhach.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\HanhKhach.cs",
+              "RelativeToolTip": "Viet231230961\\Models\\HanhKhach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:06:45.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatVe.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\DatVe.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Models\\DatVe.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\DatVe.cs",
+              "RelativeToolTip": "Viet231230961\\Models\\DatVe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:06:47.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavItem.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\NavItem.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Models\\NavItem.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\NavItem.cs",
+              "RelativeToolTip": "Viet231230961\\Models\\NavItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:06:42.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoaiXe.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\LoaiXe.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Models\\LoaiXe.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\LoaiXe.cs",
+              "RelativeToolTip": "Viet231230961\\Models\\LoaiXe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:06:38.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VanTai2512V1Context.cs",
+              "DocumentMoniker": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\VanTai2512V1Context.cs",
+              "RelativeDocumentMoniker": "Viet231230961\\Models\\VanTai2512V1Context.cs",
+              "ToolTip": "E:\\Code\\Web1\\Viet231230961\\Viet231230961\\Models\\VanTai2512V1Context.cs",
+              "RelativeToolTip": "Viet231230961\\Models\\VanTai2512V1Context.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA8wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:34:00.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

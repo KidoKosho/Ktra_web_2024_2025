@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Viet231230961</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Viet231230961.styles.css" asp-append-version="true" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Spike2512V1</title>
+    <link rel="shortcut icon" type="image/png" href="images/logos/favicon.png" />
+    <link rel="stylesheet" href="css/styles.min.css" /
+</head>
+<body>
+    <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+         data-sidebar-position="fixed" data-header-position="fixed">
+        <!-- LeftSidebar Start -->
+        <partial name ="THV_LeftSideBar" />
+       <!--  LeftSidebar End -->
+        <div class="body-wrapper">
+            <!--  Header Start -->
+            <partial name ="THV_Header" />
+            <!-- Main Start -->
+            <!-- Main End -->
+            <!-- Footer Start -->
+            @RenderBody();
+            <partial name ="THV_Footer" />
+            <!-- Footer End -->
+        </div>
+    </div>
+    <script src="libs/jquery/dist/jquery.min.js"></script>
+    <script src="libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/app.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+        $(document).ready(function () {
+
+            $('#id_main').html('');
+            let item = "";
+
+            $.ajax({
+                url: 'THV_Home/ChuyenXe',
+                type: 'GET',
+                dataType: 'json',
+                success: function (response) {
+
+                    response.forEach(row => {
+                        item += `
+                            <tr>
+                                <td>
+                                    <div class="d-flex align-items-center">
+                                        <div class="me-4">
+                                            <img src="images/cars/xe1.jpg"
+                                                 width="50"
+                                                 class="rounded-circle"
+                                                 alt="" />
+                                        </div>
+
+                                        <div>
+                                            <h6 class="mb-1 fw-bolder">${row.maTuyen}</h6>
+                                            <p class="fs-3 mb-0">${row.soXe}</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <p class="fs-3 fw-normal mb-0">${row.ngay}</p>
+                                </td>
+                                <td>
+                                    <p class="fs-3 fw-normal mb-0 text-success">
+                                        ${row.gio}
+                                    </p>
+                                          <td>
+
+            <a href ='/Chuyens/Edit/${row.maChuyen}'">Edit</a>
+                                    </td>
+
+                            </tr>`;
+                    });
+
+                    $('#id_main').html(item);
+                }
+            });
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+
+            $('#dstart').html('');
+
+            let opt = "";
+
+            $.ajax({
+                url: 'THV_Home/TuyenXe',
+                type: 'GET',
+                dataType: 'json',
+                success: function (response) {
+
+                    response.forEach(row => {
+                        opt += `<option value="${row.maTuyen}">${row.tenTuyen}</option>`;
+                    });
+
+                    $('#dstart').html(opt);
+                }
+            });
+
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+
+            $("#dstart").on("change", function () {
+
+                let maTuyen = $(this).val();  
+
+                let item = "";
+
+                $.ajax({
+                    url: "THV_Home/ChuyenXeTheoTuyen",
+                    type: "GET",
+                    data: { maTuyen: maTuyen },
+                    dataType: "json",
+                    success: function (response) {
+
+                        response.forEach(row => {
+                        item += `
+                            <tr>
+                                <td>
+                                    <div class="d-flex align-items-center">
+                                        <div class="me-4">
+                                            <img src="images/cars/xe1.jpg"
+                                                 width="50"
+                                                 class="rounded-circle"
+                                                 alt="" />
+                                        </div>
+
+                                        <div>
+                                            <h6 class="mb-1 fw-bolder">${row.maTuyen}</h6>
+                                            <p class="fs-3 mb-0">${row.soXe}</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <p class="fs-3 fw-normal mb-0">${row.ngay}</p>
+                                </td>
+                               <td>
+                                    <p class="fs-3 fw-normal mb-0 text-success">
+                                        ${row.gio}
+                                    </p>
+                                          <td>
+
+            <a href ='/Chuyens/Edit/${row.maChuyen}'">Edit</a>
+                                    </td>
+                            </tr>`;
+                    });
+
+                        $("#id_main").html(item);
+                    }
+                });
+
+            });
+        });
+    </script>
+    
+</body>
+</html>
